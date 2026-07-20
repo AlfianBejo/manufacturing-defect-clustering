@@ -1,0 +1,31 @@
+defect_id,product_id,defect_type,severity,repair_cost
+D001,P001,Scratch,Minor,25.50
+D002,P002,Dent,Moderate,85.00
+D003,P003,Crack,Critical,250.00
+D004,P004,Scratch,Minor,30.00
+D005,P005,Misalignment,Moderate,95.00
+D006,P006,Crack,Critical,280.00
+D007,P007,Color Defect,Minor,20.00
+D008,P008,Dent,Moderate,75.00
+D009,P009,Missing Part,Critical,320.00
+D010,P010,Scratch,Minor,28.00
+D011,P011,Misalignment,Moderate,110.00
+D012,P012,Crack,Critical,295.00
+D013,P013,Color Defect,Minor,22.00
+D014,P014,Dent,Moderate,80.00
+D015,P015,Scratch,Minor,35.00
+D016,P016,Crack,Critical,265.00
+D017,P017,Misalignment,Moderate,100.00
+D018,P018,Missing Part,Critical,350.00
+D019,P019,Color Defect,Minor,18.00
+D020,P020,Scratch,Minor,32.00
+D021,P021,Dent,Moderate,90.00
+D022,P022,Crack,Critical,275.00
+D023,P023,Misalignment,Moderate,105.00
+D024,P024,Color Defect,Minor,24.00
+D025,P025,Scratch,Minor,29.00
+D026,P026,Crack,Critical,310.00
+D027,P027,Missing Part,Critical,340.00
+D028,P028,Dent,Moderate,88.00
+D029,P029,Color Defect,Minor,21.00
+D030,P030,Scratch,Minor,33.00
